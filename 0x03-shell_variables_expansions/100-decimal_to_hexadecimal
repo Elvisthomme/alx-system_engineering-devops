@@ -1,0 +1,4 @@
+#!/bin/bash
+dec=85
+hex=$(([##16]dec))
+echo $hex
